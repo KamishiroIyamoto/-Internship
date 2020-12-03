@@ -12799,15 +12799,15 @@ html.boxed .rd-navbar--is-clone {
 }
 
 @font-face {
-	font-family: lg;
-	src: url(../lg/fonts/lg.eot);
-	src: url(../lg/fonts/lg.eot) format("embedded-opentype"), url(../lg/fonts/lg.woff) format("woff"), url(../lg/fonts/lg.ttf) format("truetype"), url(../lg/fonts/lg.svg) format("svg");
+	font-family: 'lg';
+	src: url("../lg/fonts/lg.eot");
+	src: url("../lg/fonts/lg.eot") format("embedded-opentype"), url("../lg/fonts/lg.woff") format("woff"), url("../lg/fonts/lg.ttf") format("truetype"), url("../lg/fonts/lg.svg") format("svg");
 	font-weight: 400;
 	font-style: normal;
 }
 
 .lg-icon {
-	font-family: lg;
+	font-family: 'lg';
 	speak: none;
 	font-style: normal;
 	font-weight: 400;
